@@ -21,6 +21,8 @@
 
 # 知识图谱
 
+- [cMeKG](<http://zstp.pcl.ac.cn:8002/>) Chinese Medical Knowledge Graph
+
 
 
 # 命名实体识别
