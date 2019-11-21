@@ -41,6 +41,8 @@
 - [cMedQA2](<https://github.com/zhangsheng93/cMedQA2>) 中文医学QA数据集
 - [CMID](<https://github.com/liutongyang/CMID>) 中文医学QA意图理解数据集
 - [KGQA](<https://github.com/YeYzheng/KGQA-Based-On-medicine>) 基于医药知识图谱的智能问答系统 
+- [chatbot-base-on-Knowledge-Graph](<https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph>) 使用深度学习方法解析问题 知识图谱存储 查询知识点 基于医疗垂直领域的对话系统
+
 
 # 信息抽取
 
