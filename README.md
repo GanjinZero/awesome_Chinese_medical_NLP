@@ -10,6 +10,7 @@
 - [THUOCL](<https://github.com/thunlp/THUOCL>) 清华大学thunlp组医学词汇
 - [ICD-10-CN](<https://github.com/chaseliu/ICD-10-CN>) ICD-10中文对应
 - [OMAHA七巧板医学术语集样例数据](<http://openkg.cn/dataset/omaha-data>) 
+- [中文糖尿病标注数据集](<https://tianchi.aliyun.com/dataset/dataDetail?dataId=22288>) 包含实体标注和关系标注
 
 
 # 词向量/预训练模型
