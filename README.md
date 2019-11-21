@@ -36,6 +36,7 @@
 
 # QA
 
+- [CCIR2019](<https://www.biendata.com/competition/ccir2019/>) CCIR 2019 基于电子病历的数据查询类问答
 - [cMedQA](<https://github.com/zhangsheng93/cMedQA>) 中文医学QA数据集
 - [cMedQA2](<https://github.com/zhangsheng93/cMedQA2>) 中文医学QA数据集
 - [CMID](<https://github.com/liutongyang/CMID>) 中文医学QA意图理解数据集
@@ -47,4 +48,5 @@
 
 # 其他
 
-
+- [CHIP2019](<https://www.biendata.com/competition/chip2019/>) 平安医疗科技疾病问答迁移学习比赛
+- [CHIP2018](<https://www.biendata.com/competition/chip2018/>) 针对中文的真实患者健康咨询语料，进行问句意图匹配
