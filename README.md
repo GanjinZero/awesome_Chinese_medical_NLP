@@ -33,7 +33,7 @@
 
 - [CCKS2017](<https://www.biendata.com/competition/CCKS2017_2/>) 面向中文电子病历的医疗实体识别及属性抽取数据集
 - [CCKS2018](<https://www.biendata.com/competition/CCKS2018_1/>) 面向中文电子病历的医疗实体识别及属性抽取数据集
-- [CCKS2019](<https://www.biendata.com/competition/CCKS2019_1/>) 面向中文电子病历的医疗实体识别及属性抽取数据集
+- [CCKS2019](<https://www.biendata.com/competition/CCKS2019_1/>) [数据下载](<http://openkg.cn/dataset/yidu-s4k>) 面向中文电子病历的医疗实体识别及属性抽取数据集
 
 # QA
 
