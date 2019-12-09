@@ -52,4 +52,5 @@
 # 其他
 
 - [CHIP2019](<https://www.biendata.com/competition/chip2019/>) 平安医疗科技疾病问答迁移学习比赛
+- [CHIP2019](<http://openkg.cn/dataset/99e3fa10-c5f3-4af8-b147-fe689e67e260>) 临床术语标准化任务:医渡云标准化7K数据集
 - [CHIP2018](<https://www.biendata.com/competition/chip2018/>) 针对中文的真实患者健康咨询语料，进行问句意图匹配
