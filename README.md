@@ -16,6 +16,10 @@
 # 词向量/预训练模型
 
 
+# 分词
+
+- [PKUSEG](<https://github.com/lancopku/pkuseg-python>) PKUSEG分词工具，模型支持选择医学
+
 
 # 知识图谱
 
