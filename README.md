@@ -15,6 +15,8 @@
 
 # 词向量/预训练模型
 
+- [ChineseEHRBert](<https://github.com/GanjinZero/ChineseEHRBert>) 中文电子病历预训练Bert；用Bert测试命名实体识别，问答模型，关系提取任务
+
 
 # 分词
 
