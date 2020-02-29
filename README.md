@@ -50,6 +50,7 @@
 - [KGQA](<https://github.com/YeYzheng/KGQA-Based-On-medicine>) 基于医药知识图谱的智能问答系统 
 - [chatbot-base-on-Knowledge-Graph](<https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph>) 使用深度学习方法解析问题 知识图谱存储 查询知识点 基于医疗垂直领域的对话系统
 - [中文医疗对话数据集](<https://github.com/Toyhom/Chinese-medical-dialogue-data>) Chinese medical dialogue data 中文医疗对话数据集 
+- [webMedQA](<https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0761-8>) webMedQA
 
 
 # 信息抽取
