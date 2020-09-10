@@ -23,7 +23,7 @@
 - [PKUSEG](<https://github.com/lancopku/pkuseg-python>) PKUSEG分词工具，模型支持选择医学
 
 
-# 知识图谱
+# 知识图谱 / 关系提取
 
 - [cMeKG](<http://zstp.pcl.ac.cn:8002/>) Chinese Medical Knowledge Graph
 - [瑞金医院人工智能辅助构建知识图谱大赛](<https://tianchi.aliyun.com/competition/entrance/231687/introduction>) 糖尿病相关的学术论文以及糖尿病临床指南的实体标注和抽取实体关系任务
@@ -33,6 +33,7 @@
 - [中文症状库](<http://openkg.cn/dataset/symptom-in-chinese>) 这是一个包含症状实体和症状相关三元组的数据集。中文症状库的数据来自8个主流的健康咨询网站、3个中文百科网站和电子病历。它还包含了中文症状与UMLS中概念的链接结果。
 - [中医医案知识图谱](<http://openkg.cn/dataset/tcm-cases>) 从医案中抽取临床知识构建知识图谱，帮助用户了解中医特色疗法，以及疾病（如“慢性胃炎”）的临床表现、相关疗法、相关养生保健方法等
 - [herbnet](<http://openkg.cn/dataset/herb-net>) 面向中药研究，根据中药领域模型的特点，构建了一个包括中医疾病，方剂，中药， 中药化学成分，药理作用，中药实验，化学实验方法在内的中药本体。 进而，基于本体实现了一系列数据库的集成，从而构建了一个中药知识图谱。
+- [CHIP2020](<http://cips-chip.org.cn/2020/eval2>) 中文医学文本实体关系抽取
 
 
 # 命名实体识别
@@ -40,6 +41,8 @@
 - [CCKS2017](<https://www.biendata.com/competition/CCKS2017_2/>) 面向中文电子病历的医疗实体识别及属性抽取数据集
 - [CCKS2018](<https://www.biendata.com/competition/CCKS2018_1/>) 面向中文电子病历的医疗实体识别及属性抽取数据集
 - [CCKS2019](<https://www.biendata.com/competition/CCKS2019_1/>) [数据下载](<http://openkg.cn/dataset/yidu-s4k>) 面向中文电子病历的医疗实体识别及属性抽取数据集
+- [CHIP2020](<http://cips-chip.org.cn/2020/eval1>) 中文医学文本命名实体识别
+- [CHIP2020](<http://cips-chip.org.cn/2020/eval6>) 中药说明书实体识别
 
 # QA
 
@@ -52,9 +55,12 @@
 - [中文医疗对话数据集](<https://github.com/Toyhom/Chinese-medical-dialogue-data>) Chinese medical dialogue data 中文医疗对话数据集 
 - [webMedQA](<https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0761-8>) webMedQA
 - [MedDialog](<https://github.com/UCSD-AI4H/Medical-Dialogue-System>) The MedDialog dataset contains conversations (in Chinese) between doctors and patients. It has 1.1 million dialogues and 4 million utterances.
+- [CHIP2020](<http://cips-chip.org.cn/2020/eval5>) 中医文献问题生成
 
 
-# 信息抽取
+# 术语标准化
+- [CHIP2019](<http://openkg.cn/dataset/99e3fa10-c5f3-4af8-b147-fe689e67e260>) 临床术语标准化任务:医渡云标准化7K数据集
+- [CHIP2020] 临床术语标准化任务
 
 
 # 相似句对判断
@@ -63,6 +69,5 @@
 
 # 其他
 
-- [CHIP2019](<https://www.biendata.com/competition/chip2019/>) 平安医疗科技疾病问答迁移学习比赛
-- [CHIP2019](<http://openkg.cn/dataset/99e3fa10-c5f3-4af8-b147-fe689e67e260>) 临床术语标准化任务:医渡云标准化7K数据集
 - [CHIP2018](<https://www.biendata.com/competition/chip2018/>) 针对中文的真实患者健康咨询语料，进行问句意图匹配
+- [CHIP2019](<https://www.biendata.com/competition/chip2019/>) 平安医疗科技疾病问答迁移学习比赛
