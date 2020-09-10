@@ -60,7 +60,7 @@
 
 # 术语标准化
 - [CHIP2019](<http://openkg.cn/dataset/99e3fa10-c5f3-4af8-b147-fe689e67e260>) 临床术语标准化任务:医渡云标准化7K数据集
-- [CHIP2020] 临床术语标准化任务
+- [CHIP2020](<http://cips-chip.org.cn/2020/eval3>) 临床术语标准化任务
 
 
 # 相似句对判断
