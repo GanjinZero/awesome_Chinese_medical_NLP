@@ -16,6 +16,9 @@
 # 词向量/预训练模型
 
 - [ChineseEHRBert](<https://github.com/GanjinZero/ChineseEHRBert>) 中文电子病历预训练Bert；用Bert测试命名实体识别，问答模型，关系提取任务
+- [MC-BERT](<https://github.com/alibaba-research/ChineseBLUE>)ChineseBLUE数据集和模型
+- [bertcner](<https://github.com/lxy444/bertcner>) 用于命名实体识别的预训练的中文医学Bert模型
+- [PCL-MedBERT](<https://code.ihub.org.cn/projects/1775/repository/mindspore_pretrain_bert>) 鹏城医疗BERT预训练模型
 
 
 # 分词
