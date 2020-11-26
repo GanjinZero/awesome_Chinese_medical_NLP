@@ -76,3 +76,4 @@
 
 - [CHIP2018](<https://www.biendata.com/competition/chip2018/>) 针对中文的真实患者健康咨询语料，进行问句意图匹配
 - [CHIP2019](<https://www.biendata.com/competition/chip2019/>) 平安医疗科技疾病问答迁移学习比赛
+- [CCLUE](<https://github.com/trueto/CCLUE>) 中文临床自然语言处理算法评估基准
