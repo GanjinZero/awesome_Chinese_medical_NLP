@@ -24,6 +24,7 @@
 # 分词
 
 - [PKUSEG](<https://github.com/lancopku/pkuseg-python>) PKUSEG分词工具，模型支持选择医学
+- [cmekg医学分词工具](<https://zstp.pcl.ac.cn:8002/download/mws>) cmekg医学分词
 
 
 # 知识图谱 / 关系提取
@@ -38,6 +39,7 @@
 - [herbnet](<http://openkg.cn/dataset/herb-net>) 面向中药研究，根据中药领域模型的特点，构建了一个包括中医疾病，方剂，中药， 中药化学成分，药理作用，中药实验，化学实验方法在内的中药本体。 进而，基于本体实现了一系列数据库的集成，从而构建了一个中药知识图谱。
 - [CHIP2020](<http://cips-chip.org.cn/2020/eval2>) 中文医学文本实体关系抽取
 - [CCKS2020](<http://sigkg.cn/ccks2020/?page_id=516>) 新冠知识图谱构建与问答
+- [cmekg医学关系提取工具](<https://zstp.pcl.ac.cn:8002/download/mre>) cmekg医学关系提取
 
 
 # 命名实体识别
@@ -48,6 +50,7 @@
 - [CHIP2020](<http://cips-chip.org.cn/2020/eval1>) 中文医学文本命名实体识别
 - [CHIP2020](<http://cips-chip.org.cn/2020/eval6>) 中药说明书实体识别
 - [CCKS2020](<http://sigkg.cn/ccks2020/?page_id=516>) 面向中文电子病历的医疗实体及事件抽取
+- [cmekg医学ner工具](<https://zstp.pcl.ac.cn:8002/download/ner>) cmekg医学ner
 
 # QA
 
