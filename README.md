@@ -64,6 +64,7 @@
 - [webMedQA](<https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0761-8>) webMedQA
 - [MedDialog](<https://github.com/UCSD-AI4H/Medical-Dialogue-System>) The MedDialog dataset contains conversations (in Chinese) between doctors and patients. It has 1.1 million dialogues and 4 million utterances.
 - [CHIP2020](<http://cips-chip.org.cn/2020/eval5>) 中医文献问题生成
+- [NLPEC](<http://112.74.48.115:8157/>) A Medical Multi-Choice Question Dataset for the National Licensed Pharmacist Examination in China
 
 
 # 术语标准化
