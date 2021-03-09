@@ -76,6 +76,10 @@
 - [“公益AI之星”挑战赛-新冠疫情相似句对判定大赛](<https://tianchi.aliyun.com/competition/entrance/231776/introduction>) 比赛整理近万条真实语境下疫情相关的肺炎、支原体肺炎、支气管炎、上呼吸道感染、肺结核、哮喘、胸膜炎、肺气肿、感冒、咳血等患者提问句对，要求选手通过自然语言处理技术识别相似的患者问题。
 
 
+# 文本分类
+- [CHIP2019](<https://github.com/zonghui0228/chip2019task3>)临床试验筛选标准短文本分类
+
+
 # 其他
 
 - [CHIP2018](<https://www.biendata.com/competition/chip2018/>) 针对中文的真实患者健康咨询语料，进行问句意图匹配
