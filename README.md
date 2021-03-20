@@ -1,5 +1,6 @@
 # awesome_Chinese_medical_NLP
 中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/etc
+
 [![HitCount](http://hits.dwyl.com/GanjinZero/awesome_Chinese_medical_NLP.svg)](http://hits.dwyl.com/GanjinZero/awesome_Chinese_medical_NLP)
 
 # 术语集/语料库
