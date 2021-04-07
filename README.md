@@ -10,8 +10,9 @@
 - [medical-news](<https://github.com/flyyang/medical-news>) 中文医学新闻爬虫
 - [medical-books](<https://github.com/scienceasdf/medical-books>) 中文LaTex开源医学书籍
 - [THUOCL](<https://github.com/thunlp/THUOCL>) 清华大学thunlp组医学词汇
-- [ICD-10-CN](<https://github.com/chaseliu/ICD-10-CN>) ICD-10中文对应
-- [ICD11](<https://icd.who.int/browse11/l-m/zh>) ICD-11中文版本
+- [ICD9](<https://athena.ohdsi.org/search-terms/terms?vocabulary=ICD9ProcCN&page=1&pageSize=15&query=>)  ICD-9中文对应
+- [ICD10](<https://github.com/chaseliu/ICD-10-CN>) ICD-10中文对应
+- [ICD11](<https://icd.who.int/browse11/l-m/zh>) ICD-11中文对应
 - [OMAHA七巧板医学术语集样例数据](<http://openkg.cn/dataset/omaha-data>) 
 - [中文糖尿病标注数据集](<https://tianchi.aliyun.com/dataset/dataDetail?dataId=22288>) 包含实体标注和关系标注
 
