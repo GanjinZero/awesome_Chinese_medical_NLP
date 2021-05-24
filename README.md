@@ -56,6 +56,7 @@
 - [CHIP2020](<http://cips-chip.org.cn/2020/eval6>) 中药说明书实体识别
 - [CCKS2020](<http://sigkg.cn/ccks2020/?page_id=516>) 面向中文电子病历的医疗实体及事件抽取
 - [cmekg医学ner工具](<https://zstp.pcl.ac.cn:8002/download/ner>) cmekg医学ner
+- [CCKS2021](<http://sigkg.cn/ccks2021/?page_id=27>) 面向中文电子病历的医疗实体及事件抽取
 
 # QA
 
@@ -70,6 +71,7 @@
 - [MedDialog](<https://github.com/UCSD-AI4H/Medical-Dialogue-System>) The MedDialog dataset contains conversations (in Chinese) between doctors and patients. It has 1.1 million dialogues and 4 million utterances.
 - [CHIP2020](<http://cips-chip.org.cn/2020/eval5>) 中医文献问题生成
 - [NLPEC](<http://112.74.48.115:8157/>) A Medical Multi-Choice Question Dataset for the National Licensed Pharmacist Examination in China
+- [CCKS2021](<http://sigkg.cn/ccks2021/?page_id=27>) 蕴含实体的中文医疗对话生成
 
 
 # 术语标准化
@@ -90,4 +92,5 @@
 - [CHIP2018](<https://www.biendata.com/competition/chip2018/>) 针对中文的真实患者健康咨询语料，进行问句意图匹配
 - [CHIP2019](<https://www.biendata.com/competition/chip2019/>) 平安医疗科技疾病问答迁移学习比赛
 - [CCLUE](<https://github.com/trueto/CCLUE>) 中文临床自然语言处理算法评估基准
+- [CCKS2021](<http://sigkg.cn/ccks2021/?page_id=27>) 面向中文医疗科普知识的内容理解
 
