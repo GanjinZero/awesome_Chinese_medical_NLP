@@ -23,9 +23,8 @@
 - [MC-BERT](<https://github.com/alibaba-research/ChineseBLUE>)ChineseBLUE数据集和模型
 - [bertcner](<https://github.com/lxy444/bertcner>) 用于命名实体识别的预训练的中文医学Bert模型
 - [PCL-MedBERT](<https://code.ihub.org.cn/projects/1775/repository/mindspore_pretrain_bert>) 鹏城医疗BERT预训练模型
-- [medbert](<https://github.com/trueto/medbert>) BERT模型在中文临床自然语言处理中的应用探索与研究
-
-
+- [medbert](<https://github.com/trueto/medbert>) BERT模型在中文临床自然语言处理中的应用探索与研究z
+- [Chinese-Word2vec-Medicine](<https://github.com/WENGSYX/Chinese-Word2vec-Medicine>) 中文生物医学领域词向量
 # 分词
 
 - [PKUSEG](<https://github.com/lancopku/pkuseg-python>) PKUSEG分词工具，模型支持选择医学
