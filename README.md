@@ -26,6 +26,7 @@
 - [medbert](<https://github.com/trueto/medbert>) BERT模型在中文临床自然语言处理中的应用探索与研究
 - [Chinese-Word2vec-Medicine](<https://github.com/WENGSYX/Chinese-Word2vec-Medicine>) 中文生物医学领域词向量
 - [SMedBERT](<https://github.com/MatNLP/SMedBERT>) SMedBERT
+- [eHealth](<https://github.com/PaddlePaddle/Research/tree/master/KG/eHealth>) Building Chinese Biomedical Language Models via Multi-Level Text Discrimination
 
 # 分词
 
