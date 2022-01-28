@@ -32,7 +32,7 @@
 
 - [PKUSEG](<https://github.com/lancopku/pkuseg-python>) PKUSEG分词工具，模型支持选择医学
 - [cmekg医学分词工具](<https://zstp.pcl.ac.cn:8002/download/mws>) cmekg医学分词
-
+- [GTS](<https://github.com/GanjinZero/GTS>) 包含922句粗细两种粒度标注的中文医学分词测试集
 
 # 知识图谱 / 关系提取
 
