@@ -74,7 +74,8 @@
 - [CHIP2020](<http://cips-chip.org.cn/2020/eval5>) 中医文献问题生成
 - [NLPEC](<http://112.74.48.115:8157/>) A Medical Multi-Choice Question Dataset for the National Licensed Pharmacist Examination in China
 - [CCKS2021](<http://sigkg.cn/ccks2021/?page_id=27>) 蕴含实体的中文医疗对话生成
-- [IMCS21](<https://github.com/lemuria-wchen/imcs21-cblue>) CBLUE@Tianchi 中医疗对话数据集 IMCS21 
+- [IMCS21](<https://github.com/lemuria-wchen/imcs21-cblue>) CBLUE@Tianchi 中医疗对话数据集 IMCS21
+- [EMPEC](<https://github.com/zhehengluoK/Examinations-for-Medical-PErsonnel-in-Chinese>) Examinations-for-Medical-PErsonnel-in-Chinese (EMPEC)
 
 
 # 术语标准化
